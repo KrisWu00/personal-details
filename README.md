@@ -58,7 +58,7 @@ Unique Design: Crafting a visually appealing and distinctive design that truly r
 
 Personal Growth: Overcoming challenges, learning new skills, and seeing the tangible progress from start to finish.
 
-# Parts were most difficult t handle:
+# Parts were most difficult to handle:
 
 Decision Paralysis: With so many design inspirations, tools, and technologies available, deciding on the direction for one's personal website can be overwhelming.
 
