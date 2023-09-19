@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Bootstrap-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css"/>
+    <!-- css-->
+    <link rel="stylesheet" href="styles/index.css" />
+
+    <!-- Font-->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/566e306229.js"
+      crossorigin="anonymous"
+    ></script>
+    <!--Jquery-->
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <!--Bootstrap Script-->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+
+    <title>personal-details</title>
+  </head>
+
+  <body>
+    <nav class="navbar nav-color fixed-top navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">Yue Wu</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav ms-auto mt-2">
+            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            <a class="nav-link" href="education.html">Education</a>
+            <a class="nav-link" href="working.html">Working</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div id="nav-placeholder"></div>
+
+    <div data-bs-spy="scroll" data-bs-target="#navbar" data-bs-offset="0">
+
+      <section class="section2" id="aboutMe">
+        <div class="aboutMeContainer row">
+          <div class="half-bg-image selfimage col">
+            <h2>About Me</h2>
+            <div class="imgContainer"></div>
+            <span role="img" aria-label="A portrait of Felix"></span>
+          </div>
+          <div class="aboutMeText col">
+            <p>
+              Yue Wu’s academic qualifications are robust. He holds a Master of Science in Computer Science from Northeastern University and a Bachelor of Science in Mathematics, with a minor in Computer Science Engineering from The Ohio State University. His extensive knowledge in programming languages such as Java, Python, JavaScript, SQL, and frameworks like SpringBoot, AWS, GCP, and others, equips him with the technical expertise required for this position.
+            </p>
+            <p>
+              During his internships, Yue demonstrated remarkable expertise in database management and distributed systems. He constructed APIs utilizing databases such as MySQL, NoSQL, Redis, Oracle, MongoDB, Elasticsearch, and more. His work on search optimization involved integrating Elasticsearch to reduce search time and constructing distributed locks based on Redis. Meanwhile, at Immorna Biotechnology Company, he played a key role in the selection and implementation of image storage solutions, effectively handling distributed file systems. These experiences not only underline Yue’s proficiency in database technologies but also highlight his ability to design and implement complex distributed systems, aligning well with the demands of modern software architecture.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="contactSection" id="contact">
+        <div class="row">
+          <div class="contactContainer col-md-4 col-sm-12">
+            <h2>Contact Info</h2>
+            <div class="contactInfoContainer">
+              <address>
+                <p>
+                  <i class="fas fa-map-marker-alt"></i>
+                  <a> 3355 Octavius Dr.Santa Clara, CA</a>
+                </p>
+                <p>
+                  <a href="wuyue519416@gmail.com"
+                    ><i class="fas fa-envelope"> </i> wuyue519416@gmail.com</a
+                  >
+                </p>
+                <p>
+                  <a href="+1 (667) 786-8068"
+                    ><i class="fas fa-solid fa-phone"></i> +1 (667) 786-8068</a
+                  >
+                </p>
+              </address>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"
+    ></script>
+  </body>
+</html>

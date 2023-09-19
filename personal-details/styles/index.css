@@ -1,0 +1,187 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+body {
+  overflow-x: hidden;
+}
+
+nav {
+  background-color: transparent;
+}
+
+.nav-color {
+  background-color: lightblue !important;
+}
+
+.navbar-brand {
+  margin-left: 2rem;
+}
+
+nav a {
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-size: 18px;
+}
+
+h1 {
+  animation: fadeIn 2s;
+}
+@keyframes fadeIn {
+  0% {
+    display: none;
+    opacity: 0;
+  }
+  100% {
+    display: block;
+    opacity: 1;
+  }
+}
+
+.bg-image {
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: table;
+  animation: fadeIn 3s;
+}
+
+.section1 {
+  background-color: black;
+}
+
+.half-bg-image {
+  margin-left: 7%;
+  margin-right: 100px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 700px;
+}
+
+.aboutMeContainer {
+  margin-top: 11%;
+}
+
+.aboutMeText {
+  font-size: 2vh;
+  padding: 20px;
+  text-align: left;
+  margin-right: 5%;
+  margin-top: 20px;
+}
+
+.aboutMeChild {
+  width: 50%;
+  float: left;
+  padding: 20px;
+}
+p {
+  text-indent: 24px;
+  font-size: 1.5 vw;
+}
+
+/* .portrait {
+  background-image: url("../images/portrait.jpg");
+} */
+
+.selfimage {
+  background-image: url("../images/me.jpg");
+  object-fit: contain;
+  background-size: 45% 60%;
+  background-position: left 180px;
+  margin-left: 100px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+}
+
+h1 {
+  margin-top: 25%;
+  margin-left: 15%;
+  vertical-align: middle;
+  float: left;
+  text-align: center;
+  color: white;
+  font-size: 1vw;
+}
+
+.contactSection {
+  background-color: lightblue;
+  margin-top: 50px;
+}
+
+.contactContainer h2{
+  margin-top: 50px;
+}
+
+.section2 h2 {
+  margin-top: -50px;
+}
+
+.contactSection {
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.contactSection h2 {
+  font-size: 4vw;
+  
+}
+
+.contactContainer {
+  padding: 40px;
+  margin-top: 20%;
+}
+
+.badge-base .LI-profile-badge {
+  margin-left: 50%;
+}
+
+.contactContainer {
+  min-height: 500px;
+  border-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.contactInfoContainer {
+  margin-top: 15%;
+  align-self: center;
+}
+
+.contactSection p {
+  text-align: left;
+}
+
+.contactSection a {
+  color: black;
+  text-decoration: none;
+  text-shadow: none;
+  text-decoration-color: black;
+  text-align: left;
+}
+
+.work-h1{
+  margin-top: 20px;
+  color: #000 !important;
+  font-size: 28px;
+  margin-left: -5px;
+}
+

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Bootstrap-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css"/>
+    <!-- css-->
+    <link rel="stylesheet" href="styles/index.css" />
+    <link rel="stylesheet" href="styles/education.css" />
+
+    <!-- Font-->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/566e306229.js"
+      crossorigin="anonymous"
+    ></script>
+    <!--Jquery-->
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <!--Bootstrap Script-->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+
+    <title>working</title>
+  </head>
+
+  <body>
+
+    <nav class="navbar nav-color fixed-top navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">Yue Wu</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav ms-auto mt-2">
+            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            <a class="nav-link" href="education.html">Education</a>
+            <a class="nav-link" href="working.html">Working</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div id="nav-placeholder"></div>
+    <div class="container">
+        <div class="row">
+          <div>
+            <h1 class="work-h1">Working Experience</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col program">
+            <strong> Company: </strong>New Oriental Education & Tech Inc. <br>
+            <strong>Position: </strong>Software Development Engineer Intern<br>
+            <strong>Date: </strong>05/2022 -- 12/2022 <br>
+            <strong>Responsibility: </strong><br>
+            1. Engaged in building microservices and Nacos registry based on SpringBoot and introduced SpringCloud Gateway to route requests through load balancing algorithm; Established SDK toolkit to generalize message processing. <br>
+            2. Constructed videos uploading API based on minIO and distributed file system, achieved video upload, download, and merge through SSH File Transfer Protocol, and optimized Service transaction for faster release of database link. <br>
+            3. Integrated Elasticsearch to solve the slowdown of the fuzzy search interface due to the amount of data; Checked the sql index to see if there are circular requests and split the complex multi-connection sql to reduce the search time. <br>
+            4. Completed distributed lock based on Redis to avoid invalid cache hotspot, cache penetration, and cache avalanche.
+            <hr>
+            <strong>Company: </strong>Immorna Biotechnology Company<br>
+            <strong>Position: </strong>Software Development Engineer Intern<br>
+            <strong>Date: </strong> 08/2021 -- 05/2022 <br>
+            <strong>Responsibility: </strong> <br>
+            1. Participated in the mobile app development to allow the user make a self-appointment via cell phone, send the verification code via SMS, display the appointment information and reminder. <br>
+            2. Involved in the selection and implementation of image storage solutions: utilized the SDK toolkit provided by Cloud Storage for file upload and deletion; Distinguished and cleaned useless images regularly to free up disk space. <br>
+            3. Performed permission control and authorization for backend system based on Spring Security; Configured and encrypted anonymously accessible resources to create, read, update and delete permission data and user data. <br>
+            4. Designed and developed Service implementation class to check if the appointment is full, repeated, or successful. Generated a static page for mobile via ReactJS and created the property file to reduce database access pressure.<br>
+          </div>
+        </div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+    ></script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"
+    ></script>
+  </body>
+</html>
