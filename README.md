@@ -1,4 +1,9 @@
 # Yue Wu's Personal Webpage
+
+Author: Yue Wu
+
+Email: wu.yue10@northeastern.edu
+
 Course Link: https://johnguerra.co/classes/webDevelopment_fall_2023/ 
 
 Personal Webpage Link: http://s18suui4d.hn-bkt.clouddn.com/index.html
