@@ -8,6 +8,8 @@ Course Link: https://johnguerra.co/classes/webDevelopment_fall_2023/
 
 Personal Webpage Link: http://s18suui4d.hn-bkt.clouddn.com/index.html
 
+PowerPoint Slides: https://docs.google.com/presentation/d/1jt9690fq-L8Euakzgv760qgxQUz4EPjBMdot08D9v2Q/edit#slide=id.p
+
 # Project Objective: 
 To design and develop a personal website from scratch using HTML, CSS, and JavaScript, thereby providing a hands-on learning experience, fostering a deeper understanding of web technologies, and creating a platform for personal branding and portfolio presentation. 
 
