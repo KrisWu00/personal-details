@@ -35,7 +35,7 @@ Screeshot:
 
 You can go to my personal webpage directly via the link: http://s18suui4d.hn-bkt.clouddn.com/index.html. 
 
-Open personal-detail file
+Open personal-detail file to find index.html page, education.html, working.html, and other useful files.
 
 The index.html page is the Homepage of the website.
 
