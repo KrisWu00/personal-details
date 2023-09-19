@@ -31,6 +31,22 @@ Screeshot:
 
 <img width="1728" alt="Screen Shot 2023-09-19 at 10 35 53 AM" src="https://github.com/KrisWu00/personal-details/assets/112190068/90deb3f6-e2fe-41b7-8054-7857da9e62a1">
 
+# Instruction to build:
+
+You can go to my personal webpage directly via the link: http://s18suui4d.hn-bkt.clouddn.com/index.html. 
+
+Open personal-detail file
+
+The index.html page is the Homepage of the website.
+
+The "Yue Wu" on top left conner will bring the user back to the home page.
+
+The education tab will take user to the education.html page which includes education information
+
+The working tab will take the user to the working.html page which includes working information
+
+Contact tab will take user to the homepage contact section.
+
 # Parts I am most proud of:
 
 Unique Design: Crafting a visually appealing and distinctive design that truly represents one's personality and professional identity can be a point of pride.
