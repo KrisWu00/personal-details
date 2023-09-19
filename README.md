@@ -40,7 +40,7 @@ Screeshot:
 
 You can go to my personal webpage directly via the link: http://s18suui4d.hn-bkt.clouddn.com/index.html. 
 
-Open personal-detail file to find index.html page, education.html, working.html, and other useful files.
+Open personal-detail file to find html files, package.json files and other files I used for web development.
 
 The index.html page is the Homepage of the website.
 
