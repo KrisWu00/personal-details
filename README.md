@@ -12,6 +12,8 @@ PowerPoint Slides: https://docs.google.com/presentation/d/1jt9690fq-L8Euakzgv760
 
 Video: https://www.youtube.com/watch?v=GIlS6abOwk0
 
+Design: https://docs.google.com/presentation/d/1jF32ds9vL2hr8BJSCz7CHIvFtNlNPT3tnLMiYfJkYE4/edit#slide=id.g281ee5d4dd5_0_10
+
 # Project Objective: 
 To design and develop a personal website from scratch using HTML, CSS, and JavaScript, thereby providing a hands-on learning experience, fostering a deeper understanding of web technologies, and creating a platform for personal branding and portfolio presentation. 
 
